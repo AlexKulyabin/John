@@ -5,3 +5,5 @@
 @import "../layouts/footer.css";
 @import "../layouts/base.css";
 @import "../layouts/vars.css";
+@import "../layouts/media-tablet.css";
+@import "../layouts/media-mobile.css";

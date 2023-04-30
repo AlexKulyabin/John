@@ -18,6 +18,7 @@ html {
 
 .footer {
 	text-align: center;
+
 	display: flex;
 	justify-content: center;
 }
@@ -25,7 +26,8 @@ html {
 .text {
 	font-weight: 400;
 	font-size: 1.6rem;
-	line-height: 2.4rem;
+	line-height: calc((2.4 / 1.6)*100%); 
+	
 }
 
 @font-face {

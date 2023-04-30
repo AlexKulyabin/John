@@ -46,7 +46,7 @@
 .section-3__works-title {
 	font-weight: 700;
 	font-size: 3rem;
-	line-height: 4.4rem;
+	line-height: calc((4.4 / 3)*100%);
 	margin-bottom: 1.7rem;
 }
 

@@ -30,12 +30,6 @@
 	margin-bottom: 2.4rem;
 }
 
-.section-1__title {
-	@media (max-width: 69rem) {
-		
-	}
-}
-
 .section-1__text {
 	padding: 0;
 	margin: 0;
@@ -59,11 +53,7 @@
 	transition: background-color 0.3s ease 0s;
 	
 }
-@media (min-width: 992px) {
-	.section-1__button:hover {
-		background-color: #bb4949;
-	}
-}
+
 
 .img {
 	/* margin-top: -18px; */
