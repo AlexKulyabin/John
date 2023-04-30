@@ -1,0 +1,30 @@
+.footer__container {
+	max-width: 85.6rem;
+	display: flex;
+	flex-grow: 1;
+	flex-direction: column;
+	padding-top: 2.6rem;
+}
+
+
+.footer__icons-box {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 2.2rem;
+}
+
+.footer__link-social {
+	margin-right: 3.5rem;
+}
+
+.footer__link-social:last-child {
+	margin-right: 0;
+}
+
+.footer__subtitle {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 21px;
+	margin: 0 0 5rem 0;
+}
