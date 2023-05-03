@@ -35,8 +35,8 @@
 @media (min-width: 495px) and (max-width: 555px) {
 	.section-1__button {
 		position: absolute;
-		top: 58%;
-		left: 32%;
+		top: 120%;
+    	left: 31%;
 	}
 }
 
