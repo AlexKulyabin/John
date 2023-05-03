@@ -4,7 +4,7 @@ html {
 	color: var(--Dark)
 }
 
-.grid-container {
+.container {
 	width: 100vw;
 	height: 100%;
 }
